@@ -4,6 +4,7 @@ Simple project based on test driven development using React JS with Typescript a
 
 
 Secret friend raffle:
+https://sorteador-amigo-secreto.vercel.app/
 
 ![image](https://github.com/gianlucaflaydner/sorteador-amigo-secreto/assets/108948959/717f44e1-5d02-4ac7-a6b9-9f484e0ee382)
 
